@@ -1,0 +1,14 @@
+diff --git a/node_modules/react-native-swipeout/src/index.js b/node_modules/react-native-swipeout/src/index.js
+index 749a209..9923605 100644
+--- a/node_modules/react-native-swipeout/src/index.js
++++ b/node_modules/react-native-swipeout/src/index.js
+@@ -14,8 +14,8 @@ import {
+   StyleSheet,
+   Text,
+   View,
+-  ViewPropTypes,
+ } from 'react-native';
++import {ViewPropTypes} from 'deprecated-react-native-prop-types';
+ 
+ const SwipeoutBtn = createReactClass({
+ 
