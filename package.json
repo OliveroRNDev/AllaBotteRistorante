@@ -39,7 +39,7 @@
     "prop-types": "^15.8.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-native": "^0.69.7",
+    "react-native": "^0.71.0",
     "react-native-bluetooth-escpos-printer": "github:januslo/react-native-bluetooth-escpos-printer",
     "react-native-device-info": "^10.3.0",
     "react-native-dropdown-picker": "^5.4.3",
