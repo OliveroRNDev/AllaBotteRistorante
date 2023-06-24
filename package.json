@@ -31,7 +31,7 @@
     "expect.js": "^0.3.1",
     "expo": "^47.0.8",
     "expo-modules-core": "^1.0.3",
-    "expo-notifications": "^0.17.0",
+    "expo-notifications": "^0.20.0",
     "expo-status-bar": "~1.4.0",
     "firebase": "^9.2.0",
     "html-entities": "^2.3.3",
