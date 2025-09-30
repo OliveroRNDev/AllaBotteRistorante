@@ -35,7 +35,7 @@
     "expo-status-bar": "~1.4.0",
     "firebase": "^9.2.0",
     "html-entities": "^2.3.3",
-    "patch-package": "^6.4.7",
+    "patch-package": "^8.0.1",
     "prop-types": "^15.8.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
